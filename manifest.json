@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "X Globe Location",
+  "version": "0.1.0",
+  "description": "Adds a globe marker to tweets on X.com that highlights the account's location.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://x.com/*"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*"],
+      "js": [
+        "data/countryCentroids.js",
+        "data/continents.js",
+        "data/worldDots.js",
+        "content/globeStyles.js",
+        "content/globeRenderer.js",
+        "content/index.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["pageScript.js", "assets/*"],
+      "matches": ["https://x.com/*"]
+    }
+  ]
+}
