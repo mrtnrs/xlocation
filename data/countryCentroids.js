@@ -58,6 +58,7 @@
   { names: ['saudi arabia', 'saudi', 'sa'], iso2: 'SA', continent: 'Asia', lat: 23.7, lon: 45.0 },
   { names: ['india', 'in'], iso2: 'IN', continent: 'Asia', lat: 20.6, lon: 78.9 },
   { names: ['pakistan', 'pk'], iso2: 'PK', continent: 'Asia', lat: 30.0, lon: 69.3 },
+  { names: ['nepal', 'np'], iso2: 'NP', continent: 'Asia', lat: 28.4, lon: 84.1 },
   { names: ['china', 'cn'], iso2: 'CN', continent: 'Asia', lat: 35.8, lon: 104.2 },
   { names: ['hong kong', 'hk'], iso2: 'HK', continent: 'Asia', lat: 22.3, lon: 114.2 },
   { names: ['taiwan', 'tw'], iso2: 'TW', continent: 'Asia', lat: 23.7, lon: 120.9 },
