@@ -25,6 +25,8 @@
   { names: ['finland', 'fi'], iso2: 'FI', continent: 'Europe', lat: 64.0, lon: 26.0 },
   { names: ['poland', 'pl'], iso2: 'PL', continent: 'Europe', lat: 52.3, lon: 19.2 },
   { names: ['slovenia', 'si'], iso2: 'SI', continent: 'Europe', lat: 46.1, lon: 14.8 },
+  { names: ['czech republic', 'czechia', 'cz'], iso2: 'CZ', continent: 'Europe', lat: 49.8, lon: 15.5 },
+  { names: ['belarus', 'by'], iso2: 'BY', continent: 'Europe', lat: 53.7, lon: 27.9 },
   { names: ['montenegro', 'me'], iso2: 'ME', continent: 'Europe', lat: 42.7, lon: 19.3 },
   { names: ['ukraine', 'ua'], iso2: 'UA', continent: 'Europe', lat: 49.0, lon: 31.2 },
   { names: ['russia', 'ru'], iso2: 'RU', continent: 'Europe', lat: 61.5, lon: 105.3 },
