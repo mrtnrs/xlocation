@@ -67,7 +67,7 @@
   { names: ['south korea', 'korea', 'republic of korea', 'kr'], iso2: 'KR', continent: 'Asia', lat: 36.5, lon: 127.9 },
   { names: ['philippines', 'ph'], iso2: 'PH', continent: 'Asia', lat: 14.6, lon: 121.0 },
   { names: ['thailand', 'th'], iso2: 'TH', continent: 'Asia', lat: 15.8, lon: 101.0 },
-  { names: ['vietnam', 'vn'], iso2: 'VN', continent: 'Asia', lat: 16.4, lon: 107.8 },
+  { names: ['vietnam', 'viet nam', 'vn'], iso2: 'VN', continent: 'Asia', lat: 16.4, lon: 107.8 },
   { names: ['malaysia', 'my'], iso2: 'MY', continent: 'Asia', lat: 4.2, lon: 102.0 },
   { names: ['singapore', 'sg'], iso2: 'SG', continent: 'Asia', lat: 1.3, lon: 103.8 },
   { names: ['indonesia', 'id'], iso2: 'ID', continent: 'Asia', lat: -0.8, lon: 113.9 },
