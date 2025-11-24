@@ -3,6 +3,7 @@
   { names: ['united states', 'usa', 'us', 'america'], iso2: 'US', continent: 'North America', lat: 38.0, lon: -97.0 },
   { names: ['canada', 'ca'], iso2: 'CA', continent: 'North America', lat: 56.0, lon: -96.0 },
   { names: ['mexico', 'mx'], iso2: 'MX', continent: 'North America', lat: 23.6, lon: -102.5 },
+  { names: ['honduras', 'hn'], iso2: 'HN', continent: 'North America', lat: 15.2, lon: -86.3 },
   { names: ['brazil', 'br'], iso2: 'BR', continent: 'South America', lat: -13.7, lon: -51.9 },
   { names: ['argentina', 'ar'], iso2: 'AR', continent: 'South America', lat: -34.8, lon: -64.4 },
   { names: ['chile', 'cl'], iso2: 'CL', continent: 'South America', lat: -35.6, lon: -71.5 },
